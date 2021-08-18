@@ -2,7 +2,7 @@ payload:
   # > BBC iPlayer
   - PROCESS-NAME,bbc.iplayer.android
   - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-KEYWORD,uk-live.akamaized
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
